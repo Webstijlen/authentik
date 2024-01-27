@@ -8453,6 +8453,9 @@ Les liaisons avec les groupes/utilisateurs sont vérifiées par rapport à l'uti
 <trans-unit id="sb166ce92e8e807d6">
   <source>Retry registration</source>
 </trans-unit>
+<trans-unit id="s4fe832d815563329">
+  <source>TODO.</source>
+</trans-unit>
     </body>
   </file>
 </xliff>
